@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a student dababase management system for my college
+- 🔭 I’m currently working on a student dababase management system for my college & SIH 2024
 - 🌱 I’m currently learning C++,Java,Python
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
