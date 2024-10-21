@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a student dababase management system for my college & SIH 2024
 - 🌱 I’m currently learning C++,Java,Python
-- 🌐 Visit my website neevan-redkar.github.io/personal
+- 🌐 Visit my website https://neevan-redkar.github.io/personal
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
