@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on multiple projects in multiple fields
 - 🌱 I’m currently learning C++,Java,Python
-- 🌐 Visit my website https://neevs1.github.io/personal
+- 🌐 Visit my website (Currently Unavailable)
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
