@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on multiple projects in multiple fields
-- 🌱 I’m currently learning C++,Java,Python
+- 🔭 I’m currently working on Agentic AI projects
+- 🌱 I’m currently learning DSA and Agentic AI systems
 - 🌐 Visit my website (Currently Unavailable)
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
