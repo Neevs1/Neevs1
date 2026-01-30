@@ -1,13 +1,13 @@
-## Hi there 👋
+## Welcome to profile
 
 <!--
 **Neevs1/Neevs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Agentic AI projects
-- 🌱 I’m currently learning DSA and Agentic AI systems
-- 🌐 Visit my website (Currently Unavailable)
+Hi, I'm Neevs(He/Him). I'm a pre final year student at PVGCOET affiliated to SPPU. Interested in working on Agentic AI, ML and scalable applications. <br>
+My skills include, but are not limited to - <br>
+C++, Java, Python, Pandas, Numpy, FastAPI, HTML, CSS, JavaScript, React.js, Next.js.
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
