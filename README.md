@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Neevs(He/Him). I'm a pre final year student at PVGCOET affiliated to SPPU.<br>
 I'm the vice chairman at my college's ACM student chapter. Currently interning at Vidhit Technologies, ex intern at Plus Offset<br>
-Research intern @ UIUC++ SRSE Program<br>
+Research intern @ UIUC++ SRSE Program (https://github.com/UIUC-SRSE-2026)<br>
 Interested in working on scalable and fault tolerant systems involving cloud native technologies and agentic AI applications. <br>
 My skills include, but are not limited to - <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,fastapi,java,js,html,css,react,nextjs,vercel,docker,aws)](https://skillicons.dev) <br>
